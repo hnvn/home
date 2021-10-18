@@ -33,7 +33,7 @@ const about = {
   imageLink: require("../editable-stuff/hunghd.jpg"),
   imageSize: 375,
   message:
-    "My name is Ha Duy Hung. I am a full-stack mobile app developer. I can work well with both of Android and iOS using native SDK or Flutter framework. I started as an Android developer and learnt about iOS and Flutter on working process. In my work history, I worked on many projects and in many domains, such as e-wallet, music player, e-commerce and education app. In my free time I like working on open source projects.",
+    "My name is Ha Duy Hung. I am a full-stack mobile app developer. I can work well with both of Android and iOS using native SDK or Flutter framework. I started as an Android developer and learned about iOS and Flutter on working process. In my work history, I worked on many projects and in many domains, such as e-wallet, e-commerce, music player and education app. In my free time I like working on open source projects.",
   resume: "https://drive.google.com/file/d/1qy4Fw4Dqo0Ccx3ekxVn15zavNQc8U6-y/view?usp=sharing",
 };
 
