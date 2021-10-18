@@ -33,7 +33,7 @@ const about = {
   imageLink: require("../editable-stuff/hunghd.jpg"),
   imageSize: 375,
   message:
-    "Talented full-stack Mobile App Developer with seven years of software and mobile development experience in a broad range of industries, financial technology, music entertainment, computer vision and education technology. Able to work well in both of Android and iOS platform. Highly skilled in troubleshooting, solution researching, and new technology integration.",
+    "My name is Ha Duy Hung. I am a full-stack mobile app developer. I can work well with both of Android and iOS using native SDK or Flutter framework. I started as an Android developer and learnt about iOS and Flutter on working process. In my work history, I worked on many projects and in many domains, such as e-wallet, music player, e-commerce and education app. In my free time I like working on open source projects.",
   resume: "https://drive.google.com/file/d/1qy4Fw4Dqo0Ccx3ekxVn15zavNQc8U6-y/view?usp=sharing",
 };
 
@@ -42,7 +42,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "hnvn", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 0,
   specificRepos: ["flutter_shimmer", "flutter_image_cropper", "flutter_downloader", "flutter_flip_panel"],
 };
 
@@ -57,7 +57,8 @@ const skills = {
     { name: "Java", value: 85 },
     { name: "Objective-C", value: 70 },
     { name: "Swift", value: 65 },
-    { name: "Kotlin", value: 55 },
+    { name: "Kotlin", value: 65 },
+    { name: "Dart", value: 90 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },

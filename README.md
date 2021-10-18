@@ -23,16 +23,16 @@
 
 ## Table of Contents
 
-- [Technology Stack 🛠️](#technology-stack-)
+- [Table of Contents](#table-of-contents)
+- [Technology Stack 🛠️](#technology-stack-️)
 - [Structure ⚓](#structure-)
 - [Sharing 💗](#sharing-)
 - [Prerequisites 🍪](#prerequisites-)
 - [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
 - [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
+- [Versão em Português :brazil:](#versão-em-português-brazil)
+- [Notice:](#notice)
+- [Stargazers over time](#stargazers-over-time)
 
 ## Technology Stack 🛠️
 
