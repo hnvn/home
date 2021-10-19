@@ -65,10 +65,10 @@ const skills = {
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 75 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 85 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Creativity", value: 85 },
   ],
 };
 
