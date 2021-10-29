@@ -77,7 +77,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "Are you working on something great? I would love to help make it happen! Drop me a letter and start your project right now! Just do it.",
+    "Are you working on something great? I would love to help make it happen! Drop me a letter and start your project right now! Just do it",
   email: "mr.haduyhung@gmail.com",
 };
 
