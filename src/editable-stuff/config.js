@@ -41,7 +41,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hnvn", //i.e."johnDoe12Gh"
+  gitHubUsername: "hnvn",
   reposLength: 0,
   specificRepos: ["flutter_shimmer", "flutter_image_cropper", "flutter_downloader", "flutter_flip_panel"],
 };
@@ -57,7 +57,7 @@ const skills = {
     { name: "Java", value: 85 },
     { name: "Objective-C", value: 70 },
     { name: "Swift", value: 65 },
-    { name: "Kotlin", value: 65 },
+    { name: "Kotlin", value: 60 },
     { name: "Dart", value: 90 },
   ],
   softSkills: [
@@ -77,7 +77,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Mobile App Developer opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "Are you working on something great? I would love to help make it happen! Drop me a letter and start your project right now! Just do it.",
   email: "mr.haduyhung@gmail.com",
 };
 
