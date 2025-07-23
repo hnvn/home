@@ -33,8 +33,8 @@ const about = {
   imageLink: require("../editable-stuff/hunghd.jpg"),
   imageSize: 375,
   message:
-    "My name is Ha Duy Hung. I am a full-stack mobile app developer, able to work well in both of Android and iOS using native SDK or Flutter framework. I started as an Android developer and learned about iOS and Flutter on working process. In my work history, I worked on many projects and in many domains, such as e-wallet, e-commerce, music player and education app. In my free time I like working on open source projects.",
-  resume: "https://drive.google.com/file/d/1qy4Fw4Dqo0Ccx3ekxVn15zavNQc8U6-y/view?usp=sharing",
+    "I'm Ha Duy Hung, a full-stack mobile app developer skilled in both Android and iOS, using native SDKs and the Flutter framework. I started as an Android developer and expanded into iOS and Flutter through hands-on experience. I've worked on a wide range of projects, including e-wallets, e-commerce, music, and education apps. In my free time, I enjoy contributing to open-source projects.",
+  resume: "https://drive.google.com/file/d/1X1ano6puPA6Rdeb5Lqd5WoltiWibOtOg/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -43,7 +43,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "hnvn",
   reposLength: 0,
-  specificRepos: ["flutter_shimmer", "flutter_image_cropper", "flutter_downloader", "flutter_flip_panel"],
+  specificRepos: ["flutter_shimmer", "flutter_image_cropper", "flutter_pattern_formatter", "flutter_flip_panel"],
 };
 
 // SKILLS SECTION
